@@ -1,0 +1,16 @@
+{
+  "name": "xml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.2.5",
+    "electron-squirrel-startup": "^1.0.0",
+    "xml-formatter": "^2.0.1"
+  }
+}
